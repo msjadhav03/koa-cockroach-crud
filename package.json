@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cassandra-driver": "^4.6.4",
+    "koa": "^2.14.2",
+    "koa-parser": "^1.0.8",
+    "koa-router": "^12.0.0"
+  }
+}
